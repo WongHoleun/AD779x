@@ -6,4 +6,4 @@
 - 初始化：STM32CUBEMX
 - 通信协议：硬件 SPI
 
-'STM32' 'AD779X' 'SPI'
+`STM32` `AD779X` `SPI`
